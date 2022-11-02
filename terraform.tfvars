@@ -1,4 +1,4 @@
-vpc_name            = "RRR"
+vpc_name            = "DEMO"
 cidr_block          = "10.95.0.0/16"
 env                 = "UAT"
 public_subnet1_cidr = "10.95.1.0/24"
